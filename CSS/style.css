@@ -51,6 +51,17 @@
 
 
 
+/* -------------------------------login page-------------------------------------------- */
+
+.login .container {padding: 100px 25rem 0rem 25rem;}
+.login .container .content{text-align: center;background-color: #f5f5f5;padding: 30px;border-radius: 10px;}
+.login .container .content .icon{padding: 15px;background-color: #e0e6f2;color:#2662d9;border-radius: 50px;font-size: 40px;}
+.login .container .content .icon-student-logo{display: flex;justify-content: center;}
+.login .container .content .icon-student{background-color: #e0e6f2;color: #2662d9;padding: 3px;border-radius: 5px;}
+.login .container .content h2{margin-top: 20px;}
+label{width: 100%;text-align: start;margin-bottom: 10px;}
+input{width: 100%;margin-bottom: 10px;padding: 10px;border-radius: 5px;border: 1px solid #bfc5d3;}
+.btn{width: 80%;margin: 20px;}
 
 
 
