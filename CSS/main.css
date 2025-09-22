@@ -1,0 +1,22 @@
+*{background-color: #fafafa;}
+
+.navbar .navbar-container{width: 100%;}
+.navbar-container{max-width: 1450px;margin: 0px auto;}
+.navbar .navbar-container .content{display: flex;padding:5px 20px;}
+.navbar .navbar-container .content .logo{width: 25%;}
+.navbar .navbar-container .content .buttons{width: 50%;}
+.navbar .navbar-container .content .information{width: 25%;text-align: end;}
+.navbar .navbar-container .content .logo{display: flex;flex-direction: row;gap: 10px;}
+.navbar .navbar-container .content .logo .staff-icon{color: #eea339;background-color: #f9f1e5;padding: 10px;font-size: 20px;border-radius: 10px;display: flex;justify-content: center;align-items: center;text-decoration: none;}
+.navbar .navbar-container .content .logo .logo-info{text-align: start;}
+.navbar .navbar-container .content .logo .logo-info h4{margin: 0px;}
+.navbar .navbar-container .content .logo .logo-info a{background-color:#eea3393b;padding: 3px; color: #e7a64a;font-size: 13px;border-radius: 10px;text-decoration: none;font-weight: bold;}
+
+.navbar .navbar-container .content .buttons{display: flex;gap: 20px;justify-content: center;align-items: center;}
+.navbar .navbar-container .content .buttons button{padding:10px 20px;border: none; background-color:#fafafa;border-radius: 10px;}
+.navbar .navbar-container .content .buttons button:hover{background-color: #d2cfcf;}
+
+.navbar .navbar-container .content .information{display: flex; justify-content: end;align-items: center;gap: 10px;}
+.navbar .navbar-container .content .information .logo-staff-info{text-decoration: none;color: #eea339;background-color: #ece5d9;border-radius: 50px;padding: 13px;}
+hr{margin: 0px;}
+
